@@ -3,7 +3,7 @@
 ## SiliCloud Introduction
 SiliCloud offers advanced VPS solutions with a commitment to performance, reliability, and customer satisfaction. With over a decade of experience in the industry, SiliCloud utilizes high-quality, brand-new hardware and provides a range of services tailored to meet the needs of diverse clients. They emphasize a 'pay-as-you-go' pricing model, ensuring fair performance and cost savings.
 
-![image](https://github.com/varnerp5/SiliCloud/assets/167664824/6a6dfcf6-1d6a-4bab-a659-0a8699eb2e77)
+![image](https://github.com/varnerp5/SiliCloud/assets/167664824/1a3c32ab-5a32-471e-9d10-49cdc49a251c)
 
 ## SiliCloud Official Website Address
 [http://www.silicloud.com](https://www.silicloud.com/?CouponsCode=wh135e)
